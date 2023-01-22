@@ -1,0 +1,15 @@
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\bin\Debug\net6.0\Ejemplo_while_CSharp.exe
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\bin\Debug\net6.0\Ejemplo_while_CSharp.deps.json
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\bin\Debug\net6.0\Ejemplo_while_CSharp.runtimeconfig.json
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\bin\Debug\net6.0\Ejemplo_while_CSharp.dll
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\bin\Debug\net6.0\Ejemplo_while_CSharp.pdb
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.csproj.AssemblyReference.cache
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.AssemblyInfoInputs.cache
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.AssemblyInfo.cs
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.csproj.CoreCompileInputs.cache
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.dll
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\refint\Ejemplo_while_CSharp.dll
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.pdb
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\Ejemplo_while_CSharp.genruntimeconfig.cache
+C:\0. RESPALDOS\Curso C#\Ejemplo_while_CSharp\Ejemplo_while_CSharp\obj\Debug\net6.0\ref\Ejemplo_while_CSharp.dll
